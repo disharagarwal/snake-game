@@ -34,16 +34,8 @@ Feel free to customize and enhance the game according to your preferences, such 
 
 Contributions to this Snake game project are welcome! If you have any suggestions, bug reports, or feature requests, feel free to submit them through the GitHub repository's issue tracker.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 We would like to acknowledge the developers of the Snake game for their original concept and inspiration.
 
-## Contact
 
-For any further inquiries or questions, please contact [EMAIL ADDRESS].
-
-Feel free to customize the README file according to your specific needs and preferences.
